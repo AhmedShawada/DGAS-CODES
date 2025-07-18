@@ -1,0 +1,10 @@
+../Core/Src/main.c:86:6:triggerUltrasonic	1
+../Core/Src/main.c:94:6:HAL_TIM_IC_CaptureCallback	3
+../Core/Src/main.c:115:6:UART_Send_Distance	1
+../Core/Src/main.c:121:6:ULTRASONIC_Runnable	6
+../Core/Src/main.c:158:5:main	1
+../Core/Src/main.c:206:6:SystemClock_Config	3
+../Core/Src/main.c:254:13:MX_TIM2_Init	6
+../Core/Src/main.c:312:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:345:13:MX_GPIO_Init	1
+../Core/Src/main.c:387:6:Error_Handler	1
